@@ -1,0 +1,4 @@
+venv
+credentials.py
+*.pyc
+*.ipynb_checkpoints
